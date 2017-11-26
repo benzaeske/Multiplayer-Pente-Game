@@ -1,1 +1,2 @@
-These files were not written by me. I only implement and/or extend them in my files.
+The files in this folder (common) were not written by me. I only extend them and 
+use functionalities provided by them in my src files.
